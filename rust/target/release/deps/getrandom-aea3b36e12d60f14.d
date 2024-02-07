@@ -1,0 +1,11 @@
+C:\Users\ilya\Desktop\markov\rust\target\release\deps\libgetrandom-aea3b36e12d60f14.rmeta: C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\ilya\Desktop\markov\rust\target\release\deps\libgetrandom-aea3b36e12d60f14.rlib: C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\ilya\Desktop\markov\rust\target\release\deps\getrandom-aea3b36e12d60f14.d: C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs:
+C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs:
+C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs:
+C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs:
+C:\Users\ilya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs:
